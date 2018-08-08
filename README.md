@@ -1,8 +1,9 @@
 # This has been discontinued in favor of Adaway version 4 which now has proper magisk systemless hosts support. Check out the [Support thread](https://forum.xda-developers.com/apps/magisk/magisk-unified-hosts-adblocker-t3559019) for more information
 
-# Unified Hosts Adblock
+## Unified Hosts Adblock
 Small adblock magisk module using unified host files from Steven Black [(Check out his github for more information)](https://github.com/StevenBlack/hosts)  
-##Usage: 
+
+### Usage: 
 #### First Enable Systemless Hosts in Magisk Manager
  - Open terminal then type:  
  `su`  
@@ -28,7 +29,7 @@ Small adblock magisk module using unified host files from Steven Black [(Check o
 #### To Remove Whitelist/Blacklist:
  - Just run hosts script and reinstall host file of choice
 
-## Changelog
+### Changelog
 v3.7
   - EOF fix, should fix weird script errors. Thanks to Simon Dellenbach
 
